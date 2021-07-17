@@ -8,4 +8,4 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 [![GitHub Streak Stats](https://github-streak-stats.herokuapp.com?user=michaelgilch&theme=black-ice)](https://git.io/streak-stats)
 
 #### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact&theme=react&card_width=445)
