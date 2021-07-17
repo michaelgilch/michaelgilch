@@ -4,6 +4,8 @@ I am a Software Engineer with a passion for creating intuitive software that req
 
 I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelgilch&theme=dark-smoky" width="50%" >
+#### Streaks
+[![GitHub Streak Stats](https://github-streak-stats.herokuapp.com?user=michaelgilch&theme=black-ice)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact)
+#### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact)
