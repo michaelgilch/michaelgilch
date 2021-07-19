@@ -27,3 +27,6 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 
 #### Top Languages
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact&theme=react&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+#### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
