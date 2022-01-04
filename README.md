@@ -8,6 +8,7 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 <p>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=apache-groovy&label=&message=Apache%20Groovy&color=4298B8&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=arch-linux&label=&message=Arch%20Linux&color=1793D1&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=arduino&label=&message=Arduino&color=00979D&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gradle&label=&message=Gradle&color=02303A&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=intellij-idea&label=&message=IntelliJ%20IDEA&color=000000&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=java&label=&message=Java&color=007396&logoColor=fff" style="height:26px;">
