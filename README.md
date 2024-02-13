@@ -24,9 +24,6 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=vim&label=&message=Vim&color=019733&logoColor=fff" style="height:26px;">
 </p>
 
-#### Streaks
-[![GitHub Streak Stats](https://github-streak-stats.herokuapp.com?user=michaelgilch&theme=react)](https://git.io/streak-stats)
-
 #### Top Languages
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact&theme=react&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 #### Latest Blog Posts
