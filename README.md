@@ -26,11 +26,3 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 
 #### Top Languages
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact&theme=react&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-#### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Finding that first job](https://softreset.dev/2022/01/21/finding-that-first-job.html)
-- [Degree, Bootcamp, or Null](https://softreset.dev/2022/01/07/degree-bootcamp-null.html)
-- [Typing Productively](https://softreset.dev/2021/05/21/typing-productively.html)
-- [Taking Notes](https://softreset.dev/2021/04/16/taking-notes.html)
-- [Getting &lpar;re&rpar;started](https://softreset.dev/2021/04/09/getting-started.html)
-<!-- BLOG-POST-LIST:END -->
