@@ -9,6 +9,7 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&&logo=go&logoColor=white" style="height:26px;">
@@ -20,6 +21,7 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=fff" style="height:26px;">
 </p>
 
