@@ -1,10 +1,13 @@
 ## Hello, I'm Michael Gilchrist 👋
 
-I am a Software Engineer with a passion for creating intuitive software that requires little to no instruction for the user and increasing productivity by automating as much as possible. 
+I'm a Software Engineer with a passion for creating intuitive software that requires little to no instruction. I believe in simplifying complexity, whether that's automating repetitive tasks, streamlining workflows, or making technology more accessible for all skill levels.
 
-I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
+By day, I work for a Medical Device Manufacturer in the Cleveland, Ohio area. By night (and early morning), I'm exploring how AI can make technology even more useful for everyone.
 
-#### Favorite Tools, Langauges, Etc...
+#### Currently Working On
+🎙️ 8minute.ai — A weekly podcast distilling complex AI topics into digestible 8-minute episodes. I'm building an AI-powered production pipeline to aid in ideation and automate the audio processing.
+
+#### Favorite Tools & Languages
 <p>
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" style="height:26px;">
