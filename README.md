@@ -4,10 +4,10 @@ I'm a Software Engineer with a passion for creating intuitive software that requ
 
 By day, I work for a Medical Device Manufacturer in the Cleveland, Ohio area. By night (and early morning), I'm exploring how AI can make technology even more useful for everyone.
 
-#### Currently Working On
+### Currently Working On
 🎙️ 8minute.ai — A weekly podcast distilling complex AI topics into digestible 8-minute episodes. I'm building an AI-powered production pipeline to aid in ideation and automate the audio processing.
 
-#### Favorite Tools & Languages
+### Favorite Tools & Languages
 <p>
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" style="height:26px;">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" style="height:26px;">
@@ -28,5 +28,5 @@ By day, I work for a Medical Device Manufacturer in the Cleveland, Ohio area. By
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=fff" style="height:26px;">
 </p>
 
-#### Top Languages
+### Top Languages
 [![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgilch&layout=compact&theme=react&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
