@@ -6,22 +6,21 @@ I currently work for a Medical Device Manufacturer in the Cleveland, Ohio area.
 
 #### Favorite Tools, Langauges, Etc...
 <p>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=apache-groovy&label=&message=Apache%20Groovy&color=4298B8&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=arch-linux&label=&message=Arch%20Linux&color=1793D1&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=arduino&label=&message=Arduino&color=00979D&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=c&label=&message=C&color=A8B9CC&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gradle&label=&message=Gradle&color=02303A&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=intellij-idea&label=&message=IntelliJ%20IDEA&color=000000&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=java&label=&message=Java&color=007396&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=jekyll&label=&message=Jekyll&color=CC0000&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=markdown&label=&message=Markdown&color=000000&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=pi-hole&label=&message=Pi-hole&color=96060C&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=postgresql&label=&message=PostgreSQL&color=4169E1&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=python&label=&message=Python&color=3776AB&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=raspberry-pi&label=&message=Raspberry%20Pi&color=A22846&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ruby&label=&message=Ruby&color=CC342D&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=sublime-text&label=&message=Sublime%20Text&color=FF9800&logoColor=fff" style="height:26px;">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=vim&label=&message=Vim&color=019733&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&&logo=go&logoColor=white" style="height:26px;">
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" style="height:26px;">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white" style="height:26px;">
+<img src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" style="height:26px;">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=fff" style="height:26px;">
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=fff" style="height:26px;">
 </p>
 
 #### Top Languages
